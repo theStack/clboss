@@ -1,3 +1,5 @@
+- Implement `clboss-destroyearningsinfo` to allow older users to recover from `InitialRebalancer` epicness.
+
 0.13A
 - Disable `InitialRebalancer`, as it is not based on economic rationality.
 - You can now disable rebalancing to or from specific peers by using `clboss-unmanage` with the key `balance`.
